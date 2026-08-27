@@ -6,10 +6,13 @@ import math as mm
 screen = turtle.Screen()
 t = turtle.Turtle()
 
+# modify app name
+t.screen.title('Golden Ratio')
+screen.bgcolor("#2C2D2D")
+
 #delay screen
 screen.delay(1)
 t.speed(1)
-screen.bgcolor("#2C2D2D")
 
 # generate goldern ratio
 for i in range(600):
