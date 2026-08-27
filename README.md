@@ -1,2 +1,2 @@
 # Golden Ratio
- $gr = \frac(1 + \sqrt{\i}){2}$  
+ $gr = \frac{(1 + \sqrt{i})}{2}$  
